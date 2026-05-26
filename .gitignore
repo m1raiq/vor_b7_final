@@ -1,0 +1,11 @@
+/_practice_report_work/
+/_vkr_presentation_work/
+/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+backend/.env
+backend/.env.*
+!.env.example
+!backend/.env.example
